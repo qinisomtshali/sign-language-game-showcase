@@ -1,4 +1,4 @@
-# sign-language-game-showcase
+
 # 🤟 Sign Language Game
 
 > *An inclusive educational game designed to empower the deaf community.*
